@@ -1,3 +1,31 @@
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey 👋, I'm Sangam Gupta</h1>
+<h3 align="center">Frontend Engineer @ Nykaa | React • React Native • SaaS Builder</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+✨ Frontend Engineer with **3+ years of experience** building scalable consumer & B2B applications  
+🏢 Currently working at **Nykaa**, contributing to **Nykaa Fashion** and internal **B2B SuperApps**  
+📱 Experienced in **React, React Native (Android & iOS)**  
+🧠 Passionate about **clean UI, performance, and product-driven engineering**
+
+> *I don’t just write code — I build products that scale.*
+
+
+
+
+
 # 💫 About Me:
 Frontend Engineer @ Nykaa | React • React Native • SaaS Builder<br> <br><br>🚀 About Me<br>✨ Frontend Engineer with 4+ years of experience building scalable consumer & B2B applications<br>🏢 Currently working at Nykaa, contributing to Nykaa Fashion and internal B2B SuperApps<br>📱 Experienced in React, React Native (Android & iOS)<br>🧠 Passionate about clean UI, performance, and product-driven engineering<br><br>I don’t just write code — I build products that scale.
 
