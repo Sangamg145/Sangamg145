@@ -91,8 +91,8 @@
 
 ## 🤝 Let’s Connect
 
-💼 LinkedIn: https://linkedin.com/in/your-link  
-📧 Email: your.email@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/sangam-gupta-434b58180
+📧 Email: sangamg145@gmail.com  
 
 ---
 
